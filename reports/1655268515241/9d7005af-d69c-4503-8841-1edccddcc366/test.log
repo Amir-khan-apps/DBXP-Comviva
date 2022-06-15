@@ -1,0 +1,50 @@
+[2022-06-15 04:48:44] [26] [WARN] Reporting disabled: using no op test run registrar
+[2022-06-15 04:48:44] [26] [INFO] TEST [DBXP-Comviva [TestCaseID=AUTO_TC_003] - testApplyLoanForStudentEmployedType_AUTO_TC_003 [L01]] STARTED at [10:18:44 2022-06-15]
+[2022-06-15 04:48:45] [26] [INFO] PASS: element 'loginBTN' is clicked.
+[2022-06-15 04:48:49] [26] [INFO] PASS: element 'applyLoan' is clicked.
+[2022-06-15 04:48:51] [26] [INFO] PASS: keys cleared in element 'panNumberInputField'.
+[2022-06-15 04:48:52] [26] [INFO] PASS: keys 'BNZPM2501F' are sent to element 'panNumberInputField'.
+[2022-06-15 04:48:54] [26] [INFO] swiping to element: checkBox (By.id: com.comviva.applyloanfma.demo:id/terms)
+[2022-06-15 04:48:55] [26] [INFO] Swipe was executed. Attempts remain: 49
+[2022-06-15 04:48:55] [26] [INFO] Result: true
+[2022-06-15 04:48:56] [26] [INFO] PASS: element 'checkBox' is clicked.
+[2022-06-15 04:48:57] [26] [INFO] PASS: element 'proceedBTN' is clicked.
+[2022-06-15 04:48:59] [26] [INFO] PASS: element 'chooseEmpType' is clicked.
+[2022-06-15 04:48:59] [26] [INFO] selecting 'Student' Employment..
+[2022-06-15 04:49:00] [26] [INFO] currentEmployment is : Retired
+[2022-06-15 04:49:00] [26] [INFO] currentEmployment is : Business Owner
+[2022-06-15 04:49:00] [26] [INFO] currentEmployment is : Salaried
+[2022-06-15 04:49:00] [26] [INFO] currentEmployment is : Student
+[2022-06-15 04:49:01] [26] [INFO] PASS: element 'dropDownOption3' is clicked.
+[2022-06-15 04:49:02] [26] [INFO] PASS: keys cleared in element 'qualificationTextFiled'.
+[2022-06-15 04:49:03] [26] [INFO] PASS: keys 'B.Tech' are sent to element 'qualificationTextFiled'.
+[2022-06-15 04:49:04] [26] [INFO] PASS: keys cleared in element 'coBrowserName1'.
+[2022-06-15 04:49:05] [26] [INFO] PASS: keys 'Sunny Singh ' are sent to element 'coBrowserName1'.
+[2022-06-15 04:49:05] [26] [INFO] PASS: keys cleared in element 'lastYearsPatCurrencyTextField'.
+[2022-06-15 04:49:07] [26] [INFO] PASS: keys '23567745' are sent to element 'lastYearsPatCurrencyTextField'.
+[2022-06-15 04:49:07] [26] [INFO] PASS: element 'proceedButton' is clicked.
+[2022-06-15 04:49:09] [26] [INFO] PASS: element 'loanTypeDropDown' is clicked.
+[2022-06-15 04:49:10] [26] [INFO] selecting 'Home' loanType..
+[2022-06-15 04:49:10] [26] [INFO] loanType is : Business
+[2022-06-15 04:49:10] [26] [INFO] loanType is : Personal
+[2022-06-15 04:49:10] [26] [INFO] loanType is : Home
+[2022-06-15 04:49:11] [26] [INFO] PASS: element 'chooseLoanTypeDropDown2' is clicked.
+[2022-06-15 04:49:12] [26] [INFO] PASS: keys cleared in element 'enterLoanAmount'.
+[2022-06-15 04:49:13] [26] [INFO] PASS: keys '5,554' are sent to element 'enterLoanAmount'.
+[2022-06-15 04:49:15] [26] [INFO] swiping to element: submit (By.id: com.comviva.applyloanfma.demo:id/submit)
+[2022-06-15 04:49:16] [26] [INFO] Swipe was executed. Attempts remain: 49
+[2022-06-15 04:49:19] [26] [INFO] Swipe was executed. Attempts remain: 48
+[2022-06-15 04:49:19] [26] [INFO] Result: true
+[2022-06-15 04:49:19] [26] [INFO] PASS: element 'submit' is clicked.
+[2022-06-15 04:49:21] [26] [INFO] PASS: element 'ChoosePurposeOfLoanDropDown' is clicked.
+[2022-06-15 04:49:21] [26] [INFO] selecting 'Others' loanType..
+[2022-06-15 04:49:22] [26] [INFO] loanType is : Others
+[2022-06-15 04:49:22] [26] [INFO] PASS: element 'selectDropDown0' is clicked.
+[2022-06-15 04:49:23] [26] [INFO] PASS: keys cleared in element 'FatherNameTextField'.
+[2022-06-15 04:49:24] [26] [INFO] PASS: keys 'Ram Kumar' are sent to element 'FatherNameTextField'.
+[2022-06-15 04:49:25] [26] [INFO] PASS: keys cleared in element 'MotherNameTextField'.
+[2022-06-15 04:49:25] [26] [INFO] PASS: keys 'Anjum devi ' are sent to element 'MotherNameTextField'.
+[2022-06-15 04:49:26] [26] [INFO] PASS: element 'proceedButton' is clicked.
+[2022-06-15 04:49:28] [26] [INFO] PASS: element 'editAddressButton' is clicked.
+[2022-06-15 04:49:28] [26] [INFO] PASS: keys cleared in element 'editAddressTextField'.
+[2022-06-15 04:49:29] [26] [INFO] PASS: keys 'Noida sec 4  UP India ' are sent to element 'editAddressTextField'.

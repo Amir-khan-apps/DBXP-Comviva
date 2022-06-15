@@ -1,0 +1,68 @@
+[2022-06-15 05:40:32] [24] [WARN] Reporting disabled: using no op test run registrar
+[2022-06-15 05:40:32] [24] [INFO] TEST [DBXP-Comviva [TestCaseID=AUTO_TC_005] - testApplyLoanForSelfEmployedEmployedType_AUTO_TC_004 [L01]] STARTED at [11:10:32 2022-06-15]
+[2022-06-15 05:40:32] [24] [INFO] PASS: element 'loginBTN' is clicked.
+[2022-06-15 05:40:36] [24] [INFO] PASS: element 'applyLoan' is clicked.
+[2022-06-15 05:40:38] [24] [INFO] PASS: keys cleared in element 'panNumberInputField'.
+[2022-06-15 05:40:39] [24] [INFO] PASS: keys 'BNZPM2501F' are sent to element 'panNumberInputField'.
+[2022-06-15 05:40:41] [24] [INFO] swiping to element: checkBox (By.id: com.comviva.applyloanfma.demo:id/terms)
+[2022-06-15 05:40:43] [24] [INFO] Swipe was executed. Attempts remain: 49
+[2022-06-15 05:40:43] [24] [INFO] Result: true
+[2022-06-15 05:40:43] [24] [INFO] PASS: element 'checkBox' is clicked.
+[2022-06-15 05:40:45] [24] [INFO] PASS: element 'proceedBTN' is clicked.
+[2022-06-15 05:40:47] [24] [INFO] PASS: element 'chooseEmpType' is clicked.
+[2022-06-15 05:40:47] [24] [INFO] selecting 'Self Employed' Employment..
+[2022-06-15 05:40:48] [24] [INFO] currentEmployment is : Retired
+[2022-06-15 05:40:48] [24] [INFO] currentEmployment is : Business Owner
+[2022-06-15 05:40:48] [24] [INFO] currentEmployment is : Salaried
+[2022-06-15 05:40:48] [24] [INFO] currentEmployment is : Student
+[2022-06-15 05:40:48] [24] [INFO] currentEmployment is : Self Employed
+[2022-06-15 05:40:50] [24] [INFO] PASS: element 'dropDownOption4' is clicked.
+[2022-06-15 05:40:52] [24] [INFO] PASS: element 'dateTextBox' is clicked.
+[2022-06-15 05:40:53] [24] [INFO] PASS: element 'dateOKButton' is clicked.
+[2022-06-15 05:40:53] [24] [INFO] PASS: keys cleared in element 'lastEmployesTextField'.
+[2022-06-15 05:40:54] [24] [INFO] PASS: keys 'InnovationM' are sent to element 'lastEmployesTextField'.
+[2022-06-15 05:40:55] [24] [INFO] PASS: keys cleared in element 'lastYearsPatCurrencyTextField'.
+[2022-06-15 05:40:56] [24] [INFO] PASS: keys '23567745' are sent to element 'lastYearsPatCurrencyTextField'.
+[2022-06-15 05:40:57] [24] [INFO] PASS: element 'ProfessionDropDown' is clicked.
+[2022-06-15 05:40:58] [24] [INFO] selecting 'CA' Profession Type..
+[2022-06-15 05:40:58] [24] [INFO] Profession  is : CA
+[2022-06-15 05:40:59] [24] [INFO] PASS: element 'ChooseProfessionDropDown0' is clicked.
+[2022-06-15 05:40:59] [24] [INFO] PASS: element 'proceedButton' is clicked.
+[2022-06-15 05:41:02] [24] [INFO] PASS: element 'loanTypeDropDown' is clicked.
+[2022-06-15 05:41:02] [24] [INFO] selecting 'Car' loanType..
+[2022-06-15 05:41:03] [24] [INFO] loanType is : Business
+[2022-06-15 05:41:03] [24] [INFO] loanType is : Personal
+[2022-06-15 05:41:03] [24] [INFO] loanType is : Home
+[2022-06-15 05:41:03] [24] [INFO] loanType is : Gold
+[2022-06-15 05:41:03] [24] [INFO] loanType is : Car
+[2022-06-15 05:41:04] [24] [INFO] PASS: element 'chooseLoanTypeDropDown4' is clicked.
+[2022-06-15 05:41:05] [24] [INFO] PASS: keys cleared in element 'enterLoanAmount'.
+[2022-06-15 05:41:06] [24] [INFO] PASS: keys '32,222' are sent to element 'enterLoanAmount'.
+[2022-06-15 05:41:08] [24] [INFO] swiping to element: submit (By.id: com.comviva.applyloanfma.demo:id/submit)
+[2022-06-15 05:41:09] [24] [INFO] Swipe was executed. Attempts remain: 49
+[2022-06-15 05:41:12] [24] [INFO] Swipe was executed. Attempts remain: 48
+[2022-06-15 05:41:12] [24] [INFO] Result: true
+[2022-06-15 05:41:12] [24] [INFO] PASS: element 'submit' is clicked.
+[2022-06-15 05:41:14] [24] [INFO] PASS: element 'ChoosePurposeOfLoanDropDown' is clicked.
+[2022-06-15 05:41:14] [24] [INFO] selecting 'Others' loanType..
+[2022-06-15 05:41:15] [24] [INFO] loanType is : Others
+[2022-06-15 05:41:15] [24] [INFO] PASS: element 'selectDropDown0' is clicked.
+[2022-06-15 05:41:16] [24] [INFO] PASS: keys cleared in element 'FatherNameTextField'.
+[2022-06-15 05:41:16] [24] [INFO] PASS: keys 'Ram Kumar' are sent to element 'FatherNameTextField'.
+[2022-06-15 05:41:17] [24] [INFO] PASS: keys cleared in element 'MotherNameTextField'.
+[2022-06-15 05:41:18] [24] [INFO] PASS: keys 'Anjum devi ' are sent to element 'MotherNameTextField'.
+[2022-06-15 05:41:20] [24] [INFO] PASS: element 'proceedButton' is clicked.
+[2022-06-15 05:41:21] [24] [INFO] PASS: element 'editAddressButton' is clicked.
+[2022-06-15 05:41:22] [24] [INFO] PASS: keys cleared in element 'editAddressTextField'.
+[2022-06-15 05:41:23] [24] [INFO] PASS: keys 'Noida sec 4  UP India ' are sent to element 'editAddressTextField'.
+[2022-06-15 05:41:25] [24] [INFO] PASS: element 'proceedButton' is clicked.
+[2022-06-15 05:41:26] [24] [INFO] PASS: element 'ITRFile' is clicked.
+[2022-06-15 05:41:27] [24] [INFO] PASS: element 'conformationPopupsOnlyThisTimeButton' is clicked.
+[2022-06-15 05:41:28] [24] [INFO] PASS: element 'conformationPopupsAllowButton' is clicked.
+[2022-06-15 05:41:29] [24] [INFO] PASS: element 'gallery' is clicked.
+[2022-06-15 05:41:31] [24] [INFO] PASS: element 'hiddenPopupsSelectImageButton' is clicked.
+[2022-06-15 05:41:31] [24] [INFO] PASS: element 'ImageFile' is clicked.
+[2022-06-15 05:41:34] [24] [INFO] PASS: element 'menu_cropRightButton' is clicked.
+[2022-06-15 05:41:35] [24] [INFO] PASS: element 'selectImageViewButton' is clicked.
+[2022-06-15 05:41:40] [24] [INFO] PASS: element 'SubmitButton' is clicked.
+[2022-06-15 05:41:42] [24] [INFO] TEST [DBXP-Comviva [TestCaseID=AUTO_TC_005] - testApplyLoanForSelfEmployedEmployedType_AUTO_TC_004 [L01]] PASSED at [11:11:42 2022-06-15]
